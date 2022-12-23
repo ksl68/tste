@@ -3,7 +3,7 @@ const chalk = require("chalk")
 
 //===================================== 
 
-global.log0 = "https://telegra.ph/file/0288eb08d973d4faba0b9.jpg" 
+global.log0 = "https://telegra.ph/file/0288eb08d973d4faba0b9.jpg"   //Logo Principal 
 
 global.thumb = "https://telegra.ph/file/0288eb08d973d4faba0b9.jpg"
 
@@ -21,27 +21,27 @@ global.banChats = false
 
 global.gcrevoke = [] 
 
-global.packname = "AQUA BOT OFICIAL\nDONO LICHT SAN"
+global.packname = "AQUA BOT OFICIAL\nDONO LICHT SAN" //Marca D'água de Emojimix
 
-global.packname2 = `#TeamAqua`
+global.packname2 = `#TeamAqua` //Segunda Marca d'água 
 
-global.author = "LICHT SAN"
+global.author = "LICHT SAN" // Pode Por Qualquer Coisa 
 
-global.sessionName = "CONEXÃO DIVINA"
+global.sessionName = "CONEXÃO DIVINA" //Nome que Vai Aparecer no Whatsapp, Após Ler o Qrcode
 
-global.NomeDoBot = "AQUA BOT SUPREMACY"
+global.NomeDoBot = "AQUA BOT SUPREMACY" //Nome do Bot
 
-global.linkgrupss = "https://chat.whatsapp.com/HowVmkSOG3k9kbhdZW2TVj"
+global.linkgrupss = "https://chat.whatsapp.com/HowVmkSOG3k9kbhdZW2TVj" //Precisa Mudar Nada Não, Pq Não Mexi Nisso Aqui Ainda
 
-global.prefix = "."
+global.prefix = "/" // Prefixo Que Vc Quer 
 
-global.NickDono = "LICHT SAN"
+global.NickDono = "LICHT SAN" //Seu Nome Como Dono
 
 global.websitex = "https://youtube.com/channel/UCCy_5Qpvgil8r-LyP9JF9Rw"
 
 //===================================== 
 
-global.mess = {
+global.mess = { 
     success: '*PRONTO!* 🤝🙂',
     
     admin: '*APNS ADM PODE UTILIZAR ESSE CMD!*',
