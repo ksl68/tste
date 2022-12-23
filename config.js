@@ -9,7 +9,7 @@ global.thumb = "https://telegra.ph/file/0288eb08d973d4faba0b9.jpg"
 
 global.err4r = "https://telegra.ph/file/0288eb08d973d4faba0b9.jpg"
 
-global.numerodonoa = ["553175416530"] 
+global.numerodonoa = ["556984423608"] 
 
 global.lolhuman = "RelzzAPIs"
 
@@ -21,11 +21,11 @@ global.banChats = false
 
 global.gcrevoke = [] 
 
-global.packname = "AQUA BOT OFICIAL\nDONO LICHT SAN" //Marca D'água de Emojimix
+global.packname = "AQUA BOT OFICIAL\nDONO el ks" //Marca D'água de Emojimix
 
 global.packname2 = `#TeamAqua` //Segunda Marca d'água 
 
-global.author = "LICHT SAN" // Pode Por Qualquer Coisa 
+global.author = "el ks" // Pode Por Qualquer Coisa 
 
 global.sessionName = "CONEXÃO DIVINA" //Nome que Vai Aparecer no Whatsapp, Após Ler o Qrcode
 
@@ -33,9 +33,9 @@ global.NomeDoBot = "AQUA BOT SUPREMACY" //Nome do Bot
 
 global.linkgrupss = "https://chat.whatsapp.com/HowVmkSOG3k9kbhdZW2TVj" //Precisa Mudar Nada Não, Pq Não Mexi Nisso Aqui Ainda
 
-global.prefix = "/" // Prefixo Que Vc Quer 
+global.prefix = "." // Prefixo Que Vc Quer 
 
-global.NickDono = "LICHT SAN" //Seu Nome Como Dono
+global.NickDono = "el ks" //Seu Nome Como Dono
 
 global.websitex = "https://youtube.com/channel/UCCy_5Qpvgil8r-LyP9JF9Rw"
 
